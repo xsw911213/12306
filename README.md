@@ -1,6 +1,6 @@
 # node_12306  刷票代码
 ## 1、感谢
-首先感谢原作者[@lhlybly](https://github.com/lhlybly) （原项目地址：https://github.com/lhlybly/node_12306），本项目是借鉴了原作者的代码。
+首先感谢原作者[@lhlybly](https://github.com/lhlybly) （原项目地址：https://github.com/lhlybly/node_12306)，本项目是借鉴了原作者的代码。
 
 主要区别是，原作者是通过邮箱发送信息，从而完成一系列操作。而我是直接使用了本地的提示，并结合了前端的一些脚本控制，能直接完成到订单提交页面中去。
 
